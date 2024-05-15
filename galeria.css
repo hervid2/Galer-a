@@ -1,0 +1,56 @@
+* {padding:0px;
+   margin: 0px;
+   font-family:'Courier New', Courier, monospace;
+}
+h1 {
+    background-color: rgb(230, 136, 28);
+    padding: 30px;
+    margin: 30px;
+    border-radius: 7px;
+    border: 3px solid red;
+    display: inline;
+    margin-right: auto;
+    margin-right: auto;
+    width: 18%;
+    color: rgb(0, 0, 0);
+    
+
+
+}
+.container {
+    background-color:black;
+    display: inline-block;
+    padding: 50px;
+    margin: 0px auto;
+    height: auto;
+    margin-right: auto;
+    margin-right: auto;
+    width: 80%;
+    border-radius: 20px;
+    border: 8px solid rgb(255, 0, 0);
+
+}
+
+.imagen {
+    display: inline-block;
+    margin: 10px;
+    width: 300px;
+    height: auto;
+    border: 3px solid rgb(16, 131, 22);
+    border-radius: 10px;
+
+}
+
+img {
+    width:200px;
+    height: 350px;
+}
+
+h4 {
+    text-decoration: underline;
+    color: white;
+}
+p {
+    font-size:small;
+    color: white;
+}
